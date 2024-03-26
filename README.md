@@ -1,4 +1,4 @@
-# AI regulations and ethics navigator (AIREN)
+# AI Regulations and Ethics Navigator (AIREN)
 
 Joshua Banks Mailman, March 2024
 

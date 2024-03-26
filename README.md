@@ -19,4 +19,4 @@ ChromaDB
 
 OpenAI
 
-The original documents as well as the vector store embeddings are kept on a Google drive.
+The original documents as well as the vector store embeddings are kept on a [Google drive](https://drive.google.com/drive/folders/1q8ivcKyrRzReUVVTthem78eb4CMk3Aop?usp=sharing).

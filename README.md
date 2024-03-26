@@ -1,6 +1,6 @@
 # AI regulations and ethics navigator (AIREN)
 
-LangChain-based RAG system for querying US &amp; EU AI regulations and Stanford Encyclopedia of Philosophy [https://plato.stanford.edu/] articles pertinent to AI ethics etc.
+LangChain-based RAG system for querying US &amp; EU AI regulations and [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) articles pertinent to AI ethics etc.
 
 This is a prototype retrieval based chatbot that focuses on AI ethics and regulation, in two senses:
 
